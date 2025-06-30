@@ -11,7 +11,7 @@ This project was developed as part of an Embedded Systems internship at SSIT. It
 - Based on the value of `field1` ("1" or "0"), the LPC1768 toggles an LED ON or OFF.
 - The system runs entirely without an RTOS, making it lightweight and suitable for low-power embedded applications.
 
-## 🛠 Technologies & Tools Used
+##  Technologies & Tools Used
 
 - **Microcontroller**: LPC1768 (ARM Cortex-M3)
 - **Wi-Fi Module**: ESP01 (ESP8266 with AT firmware)
@@ -57,6 +57,4 @@ This project was developed as part of an Embedded Systems internship at SSIT. It
 ##  License
 
 This project is for educational and academic purposes under SSIT internship.
-
----
 
